@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttoncolor">#3F51B5</color>
+    <color name="colorPrimaryDark">#238d50</color>
+    <color name="colorAccent">#27ae60</color>
+    <color name="buttontextcolor">#FFFFFF</color>
+    <color name="textcolor1">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="sysugreen">#27ae60</color>
+    <color name="background">#eceff1</color>
+    <color name="sysugreen2">#e74c3c</color>
+    <color name="gray">#707070</color>
+    <color name="gray2">#BFC9CA</color>
+</resources>
